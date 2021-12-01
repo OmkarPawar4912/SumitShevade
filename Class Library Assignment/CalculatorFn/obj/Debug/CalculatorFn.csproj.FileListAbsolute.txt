@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\bin\Debug\CalculatorFn.dll
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\bin\Debug\CalculatorFn.pdb
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\obj\Debug\CalculatorFn.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\obj\Debug\CalculatorFn.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\obj\Debug\CalculatorFn.dll
+C:\Users\User\Desktop\Intership\SumitShevade\CalculatorFn\CalculatorFn\obj\Debug\CalculatorFn.pdb
