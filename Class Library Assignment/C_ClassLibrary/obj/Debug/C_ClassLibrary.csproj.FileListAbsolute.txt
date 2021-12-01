@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\bin\Debug\C_ClassLibrary.exe.config
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\bin\Debug\C_ClassLibrary.exe
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\bin\Debug\C_ClassLibrary.pdb
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\bin\Debug\CalculatorFn.dll
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\bin\Debug\CalculatorFn.pdb
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\obj\Debug\C_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\obj\Debug\C_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\obj\Debug\C_ClassLibrary.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\obj\Debug\C_ClassLibrary.exe
+C:\Users\User\Desktop\New folder (2)\Class Library Assignment\C_ClassLibrary\obj\Debug\C_ClassLibrary.pdb
