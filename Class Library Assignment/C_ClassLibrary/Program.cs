@@ -7,8 +7,11 @@ namespace C_ClassLibrary
     {
         static void Main(string[] args)
         {
+            //Add for ask to User 1 No
+
             Console.WriteLine("Enter 1 No : ");
             int no1 = Int32.Parse(Console.ReadLine());
+            //Add for ask to User 2 No
             Console.WriteLine("Enter 2 No : ");
             int no2 = Int32.Parse(Console.ReadLine());
             FnClassLibrary fnClassLibrary = new FnClassLibrary();
